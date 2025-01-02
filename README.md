@@ -260,14 +260,14 @@ Participants are encouraged to customize the user interface and incorporate addi
 ---
 
 **Check out the screenshots for your references:**
-![Screenshot (511)](https://github.com/user-attachments/assets/ee2cd279-b18a-4286-b168-345c774e080b)
-![Screenshot (512)](https://github.com/user-attachments/assets/0b81f36e-e6a5-47c9-806e-bc2fe5174cae)
-![Screenshot (513)](https://github.com/user-attachments/assets/6d8f6e06-66d9-4d2c-8a16-eee361635fb8)
-![Screenshot (514)](https://github.com/user-attachments/assets/c86eda5a-7cc4-4944-8ce4-edeb8a99f8b0)
-![Screenshot (515)](https://github.com/user-attachments/assets/e2b92c5b-b2a3-4f83-bdb0-7e83d516623e)
-![Screenshot (510)](https://github.com/user-attachments/assets/65d2c849-0e23-4668-8168-63644bc7b694)
 
+<img width="187" alt="image" src="https://github.com/user-attachments/assets/1fed4726-6e31-4d7f-a417-ac5914477413">
+<img width="188" alt="image" src="https://github.com/user-attachments/assets/0a830053-a7ff-49d2-866c-6aaadba77989">
+<img width="189" alt="image" src="https://github.com/user-attachments/assets/65bee04a-622c-4ead-9343-2d8279f67ef5">
+<img width="181" alt="image" src="https://github.com/user-attachments/assets/c8967f30-fd29-40ca-a655-7a7e65bb0597">
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/14d48d34-5b64-4890-b1f1-f53e74e722d1">
 
 
 ## References: 
-- https://www.youtube.com/watch?v=pwsjvnADNGk
+- https://github.com/Ankur77720/uber-video.git
+- https://www.youtube.com/watch?v=4qyBjxPlEZo
